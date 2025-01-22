@@ -1,0 +1,3 @@
+region,population,median_home_value,home_value_yoy_change,avg_metro_rent,avg_rent_yoy_change,num_metro_areas,highest_rent_metro,highest_rent,lowest_rent_metro,lowest_rent,data_date
+California,"0    39538223
+Name: P1_001N, dtype: object",771056.9752678875,3.6850148018333377,2306.3569924500794,4.14150096446041,33,Santa Maria,3611.0692500378486,Susanville,1179.1666666666667,2024-10-31
